@@ -2,10 +2,10 @@ artifacts
 cache
 node_modules
 .env
-.vscode
 
 *__pycache__
 logs
+temp_auto_push.bat
 
 
 coverage
@@ -13,3 +13,6 @@ coverage.json
 typechain
 typechain-types
 
+.gitignore
+temp_interactive_push.bat
+branch_structure.json
